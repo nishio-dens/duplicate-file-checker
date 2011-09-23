@@ -1,0 +1,4 @@
+This is a simple script to find duplicate files.
+
+usage: ruby checker.rb CheckDirectoryPath
+e.g. ruby checker.rb /home/nishio/Documents/
